@@ -1,0 +1,11 @@
+README
+
+For Running this app in run mode please edit the configuration and then add :
+Additional args: --no-sound-null-safety
+as some libraries which have been used do no support null safety.
+
+For testcases also update the same in additional args.
+Additional args: --no-sound-null-safety
+
+Total number of Unit testcases : 11
+State Management architecture : Bloc
